@@ -360,6 +360,14 @@ const themes = {
     icon_color: "ebbcba",
     text_color: "e0def4",
     bg_color: "191724",
+  },
+  "gold":{
+    bg_color="000000",
+    title_color="FFF7000",
+    border_radius="10",
+    border_color="EEFC68",
+    text_color="FFFFFF",
+    icon_color="EEFC68",
   }
 };
 
